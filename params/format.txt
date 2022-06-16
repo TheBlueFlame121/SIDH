@@ -1,0 +1,15 @@
+p
+eA
+eB
+PA0
+PA1
+QA0
+QA1
+RA0
+RA1
+PB0
+PB1
+QB0
+QB1
+RB0
+RB1
